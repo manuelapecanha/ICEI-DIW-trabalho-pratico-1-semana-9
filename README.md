@@ -9,8 +9,8 @@
 
 ## Print da página home-page com Bootstrap
 
-<img src="">
+<img src="/images/homepage.bootstrap.png">
 
 ## Print da página de detalhes com Bootstrap
 
-<img src="">
+<img src="/images/detalhes.bootstrap.png">
